@@ -162,3 +162,31 @@ p {
     transform: rotate(0);
   }
 }
+
+/* Call to action Section */
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 22%;
+}
+
+.cta-header {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+
+/* Footer Section */
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.footer-icon {
+  padding: 2% 1%;
+}
